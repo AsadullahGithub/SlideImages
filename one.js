@@ -8,7 +8,7 @@ function click3(){
   document.getElementById('pic').src='c.jpg'
 }
 function click4(){
-  document.getElementById('pic').src='b.jpg'
+  document.getElementById('pic').src='d.jpg'
 }
 function click5(){
   document.getElementById('pic').src='e.jpg'
